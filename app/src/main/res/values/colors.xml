@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="green">#4F9BEC</color>
+    <color name="grey">#E9E9E9</color>
+    <color name="blue">#3023ae</color>
+    <color name="purple">#FF673AB7</color>
+
+    <!--colors for profile-->
+    <color name="profilePrimaryDark">#FF3B30</color>
+    <color name="profileAccentColor">#F7F7F7</color>
+    <color name="whiteTextColor">#fff</color>
+    <color name="profileBackground">#fff</color>
+    <color name="blackTextColor">#000</color>
+    <color name="profileEditTextColor">#707070</color>
+
+    <color name="colorPrimary">#00796b</color>
+    <color name="colorPrimaryDark">#00695C</color>
+    <color name="colorAccent">#FF4081</color>
+
+</resources>
